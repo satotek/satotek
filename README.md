@@ -19,7 +19,7 @@ Originally from Kanagawa.
 ## 📊 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satotek&layout=compact&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satotek&theme=github_dark" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
