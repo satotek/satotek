@@ -4,6 +4,10 @@ I'm satotek.
 Software engineer based in Kitakyushu, Japan 🇯🇵  
 Originally from Kanagawa.
 
+<p>
+  <a href="https://satotek.dev"><img src="https://img.shields.io/badge/Blog-satotek.dev-0d1117?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+</p>
+
 ## Skills
 
 <p align="center">
