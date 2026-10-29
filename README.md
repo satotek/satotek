@@ -30,13 +30,21 @@ Originally from Kanagawa.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare,nix,vim&theme=dark&perline=6" />
-    <img alt="Swift, Kotlin, Google Cloud, Cloudflare, Nix, Vim" src="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare,nix,vim&theme=light&perline=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare&theme=dark&perline=4" />
+    <img alt="Swift, Kotlin, Google Cloud, Cloudflare" src="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare&theme=light&perline=4" />
   </picture>
 </p>
 
 <p align="center">
   <sub>Personal apps: <a href="https://github.com/satotek/screvia">screvia</a> (Swift) / <a href="https://github.com/satotek/cellscope">CellScope</a> (Kotlin)</sub>
+</p>
+
+## Toolbox
+
+<p align="center">
+  <a href="https://nixos.org"><img src="https://img.shields.io/badge/Nix-0d1117?style=flat-square&logo=nixos&logoColor=white" alt="Nix"></a>
+  <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"></a>
+  <a href="https://ghostty.org"><img src="https://img.shields.io/badge/Ghostty-0d1117?style=flat-square&logo=ghostty&logoColor=white" alt="Ghostty"></a>
 </p>
 
 ## 📊 Languages
