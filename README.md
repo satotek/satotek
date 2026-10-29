@@ -12,8 +12,8 @@ Originally from Kanagawa.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,azure,terraform,python,c,docker,githubactions&theme=dark&perline=8" />
-    <img alt="TypeScript, React, Azure, Terraform, Python, C, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts,react,azure,terraform,python,c,docker,githubactions&theme=light&perline=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cazure%2Cterraform%2Cpython%2Cc%2Cdocker%2Cgithubactions&theme=dark&perline=8" />
+    <img alt="TypeScript, React, Azure, Terraform, Python, C, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts%2Creact%2Cazure%2Cterraform%2Cpython%2Cc%2Cdocker%2Cgithubactions&theme=light&perline=8" />
   </picture>
 </p>
 
@@ -30,8 +30,8 @@ Originally from Kanagawa.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare&theme=dark&perline=4" />
-    <img alt="Swift, Kotlin, Google Cloud, Cloudflare" src="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare&theme=light&perline=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ckotlin%2Cgcp%2Ccloudflare&theme=dark&perline=4" />
+    <img alt="Swift, Kotlin, Google Cloud, Cloudflare" src="https://skillicons.dev/icons?i=swift%2Ckotlin%2Cgcp%2Ccloudflare&theme=light&perline=4" />
   </picture>
 </p>
 
