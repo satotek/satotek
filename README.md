@@ -8,16 +8,35 @@ Originally from Kanagawa.
   <a href="https://satotek.dev"><img src="https://img.shields.io/badge/Blog-satotek.dev-0d1117?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
 
-## Skills
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,pnpm,py,c,git,docker,linux,azure" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,azure,terraform,python,c,docker,githubactions&theme=dark&perline=8" />
+    <img alt="TypeScript, React, Azure, Terraform, Python, C, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts,react,azure,terraform,python,c,docker,githubactions&theme=light&perline=8" />
+  </picture>
 </p>
 
-## Studying
+## Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,terraform,rust,go,postgres" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark" />
+    <img alt="Rust" src="https://skillicons.dev/icons?i=rust&theme=light" />
+  </picture>
+</p>
+
+## Hobby
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare,nix,vim&theme=dark&perline=6" />
+    <img alt="Swift, Kotlin, Google Cloud, Cloudflare, Nix, Vim" src="https://skillicons.dev/icons?i=swift,kotlin,gcp,cloudflare,nix,vim&theme=light&perline=6" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Personal apps: <a href="https://github.com/satotek/screvia">screvia</a> (Swift) / <a href="https://github.com/satotek/cellscope">CellScope</a> (Kotlin)</sub>
 </p>
 
 ## 📊 Languages
