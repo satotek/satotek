@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+<rect x="0.5" y="0.5" width="719" height="269" rx="10" fill="#161b22" stroke="#30363d"/>
+<path d="M0.5 36 H719.5" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#30363d"/><circle cx="42" cy="18" r="6" fill="#30363d"/><circle cx="62" cy="18" r="6" fill="#30363d"/>
+<text x="360" y="22" text-anchor="middle" font-size="12" fill="#6e7681">satotek — zsh</text>
+<text x="24" y="62" fill="#9198a1"><tspan fill="#3fb950">❯</tspan> commits --by-hour --tz Asia/Tokyo --since 1y</text>
+<path d="M40 200.5 H662" stroke="#30363d"/>
+<path d="M40 200 V114.4 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
+<text x="52" y="218" text-anchor="middle" font-size="11" fill="#6e7681">00</text>
+<path d="M66 200 V163.5 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
+<path d="M92 200 V147.5 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
+<path d="M118 200 V188.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<text x="130" y="218" text-anchor="middle" font-size="11" fill="#6e7681">03</text>
+<path d="M144 200 V183.8 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M170 200 V196.6 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M196 200 V198.4 q0 -1.6019417475728155 1.6019417475728155 -1.6019417475728155 h20.796116504854368 q1.6019417475728155 0 1.6019417475728155 1.6019417475728155 V200 Z" fill="#1f5f2b"/>
+<text x="208" y="218" text-anchor="middle" font-size="11" fill="#6e7681">06</text>
+<path d="M222 200 V187.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M248 200 V185.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M274 200 V154.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<text x="286" y="218" text-anchor="middle" font-size="11" fill="#6e7681">09</text>
+<path d="M300 200 V172.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M326 200 V175.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M352 200 V187.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<text x="364" y="218" text-anchor="middle" font-size="11" fill="#6e7681">12</text>
+<path d="M378 200 V175.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M404 200 V191.3 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M430 200 V173.1 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<text x="442" y="218" text-anchor="middle" font-size="11" fill="#6e7681">15</text>
+<path d="M456 200 V174.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M482 200 V158.1 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M508 200 V185.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<text x="520" y="218" text-anchor="middle" font-size="11" fill="#6e7681">18</text>
+<path d="M534 200 V174.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M560 200 V165.6 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M586 200 V148.5 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
+<text x="598" y="218" text-anchor="middle" font-size="11" fill="#6e7681">21</text>
+<path d="M612 200 V153.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
+<path d="M638 200 V93.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
+<text x="650" y="82" text-anchor="end" font-size="12" fill="#e6edf3">23:00 peak · 103</text>
+<text x="24" y="244" fill="#9198a1"><tspan fill="#e6edf3">48%</tspan> of 771 commits land between 21:00 and 03:00 JST</text>
+</svg>

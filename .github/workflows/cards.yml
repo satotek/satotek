@@ -1,0 +1,44 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '23 21 * * *' # daily 21:23 UTC (06:23 JST), off the top of the hour to dodge queue spikes
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate.mjs
+      - .github/workflows/cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # Only public data is read, so the job token is enough; no PAT is needed.
+      - name: Generate cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/generate.mjs
+
+      - name: Commit changes
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "No card changes."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'chore: update profile cards'
+          git push
