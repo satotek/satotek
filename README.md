@@ -8,49 +8,27 @@ Originally from Kanagawa.
   <a href="https://satotek.dev"><img src="https://img.shields.io/badge/Blog-satotek.dev-0d1117?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
 
-## Stack
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cazure%2Cterraform%2Cpython%2Cc%2Cdocker%2Cgithubactions&theme=dark&perline=8" />
-    <img alt="TypeScript, React, Azure, Terraform, Python, C, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts%2Creact%2Cazure%2Cterraform%2Cpython%2Cc%2Cdocker%2Cgithubactions&theme=light&perline=8" />
-  </picture>
-</p>
-
-## Learning
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark" />
-    <img alt="Rust" src="https://skillicons.dev/icons?i=rust&theme=light" />
-  </picture>
-</p>
-
-## Hobby
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ckotlin%2Cgcp%2Ccloudflare&theme=dark&perline=4" />
-    <img alt="Swift, Kotlin, Google Cloud, Cloudflare" src="https://skillicons.dev/icons?i=swift%2Ckotlin%2Cgcp%2Ccloudflare&theme=light&perline=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/fetch-dark.svg" />
+    <img alt="Profile: zsh, Neovim, Ghostty on Nix (nix-darwin / home-manager). Work: TypeScript, React, Azure, Terraform. Hobby: Swift, Kotlin. Learning: Rust." src="assets/fetch-light.svg" width="720" />
   </picture>
 </p>
 
 <p align="center">
-  <sub>Personal apps: <a href="https://github.com/satotek/screvia">screvia</a> (Swift) / <a href="https://github.com/satotek/cellscope">CellScope</a> (Kotlin)</sub>
+  <sub>Personal apps: <a href="https://github.com/satotek/screvia">screvia</a> (Swift) / <a href="https://github.com/satotek/cellscope">CellScope</a> (Kotlin) · Dotfiles: <a href="https://github.com/satotek/dotfiles">satotek/dotfiles</a></sub>
 </p>
-
-## Toolbox
 
 <p align="center">
-  <a href="https://nixos.org"><img src="https://img.shields.io/badge/Nix-0d1117?style=flat-square&logo=nixos&logoColor=white" alt="Nix"></a>
-  <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"></a>
-  <a href="https://ghostty.org"><img src="https://img.shields.io/badge/Ghostty-0d1117?style=flat-square&logo=ghostty&logoColor=white" alt="Ghostty"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+    <img alt="Languages across public repositories, by bytes" src="assets/languages-light.svg" width="720" />
+  </picture>
 </p>
-
-## 📊 Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satotek&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hours-dark.svg" />
+    <img alt="Commits by hour of day (JST) over the last year" src="assets/hours-light.svg" width="720" />
+  </picture>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
