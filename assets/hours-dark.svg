@@ -27,7 +27,7 @@
 <path d="M404 200 V191.3 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
 <path d="M430 200 V171.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
 <text x="442" y="218" text-anchor="middle" font-size="11" fill="#6e7681">15</text>
-<path d="M456 200 V174.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
+<path d="M456 200 V173.1 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
 <path d="M482 200 V158.1 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
 <path d="M508 200 V185.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1f5f2b"/>
 <text x="520" y="218" text-anchor="middle" font-size="11" fill="#6e7681">18</text>
@@ -38,5 +38,5 @@
 <path d="M612 200 V153.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
 <path d="M638 200 V93.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#3fb950"/>
 <text x="650" y="82" text-anchor="end" font-size="12" fill="#e6edf3">23:00 peak · 103</text>
-<text x="24" y="244" fill="#9198a1"><tspan fill="#e6edf3">48%</tspan> of 773 commits land between 21:00 and 03:00 JST</text>
+<text x="24" y="244" fill="#9198a1"><tspan fill="#e6edf3">48%</tspan> of 774 commits land between 21:00 and 03:00 JST</text>
 </svg>
