@@ -12,17 +12,17 @@
 <text x="680" y="96" text-anchor="end" fill="#59636e">6.4 MB</text>
 <text x="40" y="122" fill="#1f2328">Swift</text>
 <rect x="160" y="112" width="300" height="10" rx="2" fill="#eff2f5"/>
-<rect x="160" y="112" width="35.8" height="10" rx="2" fill="#eb6834"/>
+<rect x="160" y="112" width="35.7" height="10" rx="2" fill="#eb6834"/>
 <text x="560" y="122" text-anchor="end" fill="#1f2328">8.4%</text>
 <text x="680" y="122" text-anchor="end" fill="#59636e">763 KB</text>
 <text x="40" y="148" fill="#1f2328">Kotlin</text>
 <rect x="160" y="138" width="300" height="10" rx="2" fill="#eff2f5"/>
-<rect x="160" y="138" width="30.6" height="10" rx="2" fill="#6250d6"/>
+<rect x="160" y="138" width="30.5" height="10" rx="2" fill="#6250d6"/>
 <text x="560" y="148" text-anchor="end" fill="#1f2328">7.2%</text>
 <text x="680" y="148" text-anchor="end" fill="#59636e">651 KB</text>
 <text x="40" y="174" fill="#1f2328">CSS</text>
 <rect x="160" y="164" width="300" height="10" rx="2" fill="#eff2f5"/>
-<rect x="160" y="164" width="18.0" height="10" rx="2" fill="#e87ba4"/>
+<rect x="160" y="164" width="17.9" height="10" rx="2" fill="#e87ba4"/>
 <text x="560" y="174" text-anchor="end" fill="#1f2328">4.2%</text>
 <text x="680" y="174" text-anchor="end" fill="#59636e">383 KB</text>
 <text x="40" y="200" fill="#1f2328">TypeScript</text>
