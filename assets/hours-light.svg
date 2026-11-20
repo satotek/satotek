@@ -21,22 +21,22 @@
 <text x="286" y="218" text-anchor="middle" font-size="11" fill="#818b98">09</text>
 <path d="M300 200 V148.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <path d="M326 200 V151.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
-<path d="M352 200 V172.6 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
+<path d="M352 200 V171.6 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <text x="364" y="218" text-anchor="middle" font-size="11" fill="#818b98">12</text>
 <path d="M378 200 V156.8 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <path d="M404 200 V178.4 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <path d="M430 200 V149.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <text x="442" y="218" text-anchor="middle" font-size="11" fill="#818b98">15</text>
-<path d="M456 200 V154.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
+<path d="M456 200 V148.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <path d="M482 200 V148.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
-<path d="M508 200 V174.5 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
+<path d="M508 200 V171.6 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <text x="520" y="218" text-anchor="middle" font-size="11" fill="#818b98">18</text>
-<path d="M534 200 V155.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
+<path d="M534 200 V153.9 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
 <path d="M560 200 V143.1 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#aceebb"/>
-<path d="M586 200 V137.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1a7f37"/>
+<path d="M586 200 V136.2 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1a7f37"/>
 <text x="598" y="218" text-anchor="middle" font-size="11" fill="#818b98">21</text>
 <path d="M612 200 V145.1 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1a7f37"/>
 <path d="M638 200 V93.0 q0 -3 3 -3 h18 q3 0 3 3 V200 Z" fill="#1a7f37"/>
 <text x="650" y="82" text-anchor="end" font-size="12" fill="#1f2328">23:00 peak · 112</text>
-<text x="24" y="244" fill="#59636e"><tspan fill="#1f2328">39%</tspan> of 1137 commits land between 21:00 and 03:00 JST</text>
+<text x="24" y="244" fill="#59636e"><tspan fill="#1f2328">39%</tspan> of 1151 commits land between 21:00 and 03:00 JST</text>
 </svg>
