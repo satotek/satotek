@@ -11,7 +11,7 @@
 <text x="230" y="158"><tspan fill="#3fb950" font-weight="600">Shell</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="158" fill="#e6edf3">zsh</text>
 <text x="230" y="180"><tspan fill="#3fb950" font-weight="600">Editor</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="180" fill="#e6edf3">Neovim</text>
 <text x="230" y="202"><tspan fill="#3fb950" font-weight="600">Terminal</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="202" fill="#e6edf3">Ghostty</text>
-<text x="230" y="224"><tspan fill="#3fb950" font-weight="600">Nix</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="224" fill="#e6edf3">21 flake inputs · 4 hosts</text>
+<text x="230" y="224"><tspan fill="#3fb950" font-weight="600">Nix</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="224" fill="#e6edf3">22 flake inputs · 4 hosts</text>
 <text x="230" y="246"><tspan fill="#3fb950" font-weight="600">Work</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="246" fill="#e6edf3">TypeScript · React · Azure · Terraform</text>
 <text x="230" y="268"><tspan fill="#3fb950" font-weight="600">Hobby</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="268" fill="#e6edf3">Swift · Kotlin</text>
 <text x="230" y="290"><tspan fill="#3fb950" font-weight="600">Learning</tspan><tspan fill="#6e7681">:</tspan></text><text x="330" y="290" fill="#e6edf3">Rust</text>
